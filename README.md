@@ -5,13 +5,17 @@
 - 🛳️ 항해 중입니다 .. 🌊🌊🌊 재취업 준비! 💦
 <br>
 
+👉 I want to change my job from Back-End to Front-End
 ```JavaScript
-const job = "Back-End";
-
 const change_job = (job) => {
   return job.replace("Back", "Front");
 };
 
-console.log(change_job(job)); // Front-End
+console.log(change_job("Back-End")); // Front-End
 ```
-- Front-End 엔지니어로 전향하고자 퇴사했습니다 🔥
+<br>
+
+🎯 My current focus
+```JavaScript
+let current_focus = ["React", "TypeScript"];
+```
