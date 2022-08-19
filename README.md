@@ -17,5 +17,5 @@ console.log(change_job("Back-End")); // Front-End
 
 🎯 My current focus
 ```JavaScript
-let current_focus = ["JavaScript", "React", "TypeScript", "Redux"];
+let current_focus = ["JavaScript", "TypeScript", "React", "Redux"];
 ```
