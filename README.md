@@ -7,3 +7,5 @@
 
 ### `Portfolio`
 - https://github.com/kwakhyun/front-end-practice/tree/main/react
+- https://github.com/kwakhyun/simple-voca-app
+- https://github.com/kwakhyun/random-cat
