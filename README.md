@@ -9,7 +9,6 @@
 ### `React`
 - [Practice Projects 1 to 4](https://github.com/kwakhyun/front-end-practice/tree/main/react)
 - [Bulletin board](https://github.com/kwakhyun/everyone-bulletin-board)
-- [Voca App](https://github.com/kwakhyun/simple-voca-app)
 
 ### `JavaScript`
 - [Todo list](https://github.com/kwakhyun/vanilla-todo-list)
