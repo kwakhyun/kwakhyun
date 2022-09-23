@@ -27,6 +27,9 @@
 - [Practice Project 1 to 4](https://github.com/kwakhyun/front-end-practice/tree/main/react) - 연습 프로젝트
   - `React` `Redux` `Redux Toolkit`
   <br>
-- [Todo list](https://github.com/kwakhyun/vanilla-todo-list) - 할 일, 날씨 정보 앱
-  - `JavaScript`
+- [Vanilla Todo list](https://github.com/kwakhyun/vanilla-todo-list) - 할 일, 날씨 정보 앱
+  - `HTML` `CSS` `JavaScript`
+  <br>
+- [Intranet Account Management](https://github.com/kwakhyun/intranet-account-management) - 사내 계정 관리 앱
+  - `Java` `JSP` `Spring` `Oracle Database` `jQuery`
   <br>
