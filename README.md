@@ -12,7 +12,8 @@
   - [Anonymous Forum](https://github.com/kwakhyun/everyone-bulletin-board) - 익명 게시판
   
 - `개인 프로젝트`
-  - [OurTalk]() - 실시간 채팅 앱
+  - [Next market]() - 진행 중
+  - [OurTalk]() - 진행 중
   - [Practice Project 1 to 4](https://github.com/kwakhyun/front-end-practice/tree/main/react) - 연습 프로젝트
 
 ### `JavaScript`
