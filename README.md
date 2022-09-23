@@ -19,10 +19,10 @@
   
 ### 개인 프로젝트
 - [Next market]() - 기획 중
-  - `React` `TypeScript` `Next.js` `SWR` `Tailwind CSS`
+  - `TypeScript` `React` `Next.js` `SWR` `Tailwind CSS`
   <br>    
 - [OurTalk]() - 실시간 채팅 앱 - 개발 중
-  - `React` `TypeScript` `Socket.IO` `SWR` `Emotion`
+  - `TypeScript` `React` `Socket.IO` `SWR` `Emotion`
   <br>
 - [Practice Project 1 to 4](https://github.com/kwakhyun/front-end-practice/tree/main/react) - 연습 프로젝트
   - `React` `Redux` `Redux Toolkit`
