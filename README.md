@@ -13,17 +13,8 @@
 - [OhMyKase](https://github.com/kwakhyun/oh-my-kase-FE) - 오마카세 리뷰 앱
   - `React` `Redux Toolkit` `React Query` `styled-components`
   <br>
-- [Anonymous Forum](https://github.com/kwakhyun/everyone-bulletin-board) - 익명 게시판
-  - `React` `Redux Toolkit` `styled-components`
-  <br>
   
 ### 개인 프로젝트
-- [Next market]() - 기획 중
-  - `TypeScript` `React` `Next.js` `SWR` `Tailwind CSS`
-  <br>    
-- [OurTalk]() - 실시간 채팅 앱 - 개발 중
-  - `TypeScript` `React` `Socket.IO` `SWR` `Emotion`
-  <br>
 - [Practice Project 1 to 4](https://github.com/kwakhyun/front-end-practice/tree/main/react) - 연습 프로젝트
   - `React` `Redux` `Redux Toolkit`
   <br>
