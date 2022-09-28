@@ -10,7 +10,7 @@
 - [Twitter Clone](https://github.com/kwakhyun/twitter-clone-FE) - 트위터 클론 - (개선 중)
   - `React` `React Query` `styled-components`
   <br>
-- [OhMyKase](https://github.com/kwakhyun/oh-my-kase-FE) - 오마카세 리뷰 앱
+- [OhMyKase](https://github.com/kwakhyun/oh-my-kase-FE) - 오마카세 정보 및 리뷰 서비스
   - `React` `Redux Toolkit` `React Query` `styled-components`
   <br>
 - [Anonymous Forum](https://github.com/kwakhyun/everyone-bulletin-board) - 익명 게시판
@@ -18,15 +18,15 @@
   <br>
   
 ### 개인 프로젝트
-- [OurTalk]() - 실시간 채팅 앱 - (개발 중)
+- [OurTalk]() - 실시간 채팅 서비스 - (개발 중)
   - `TypeScript` `React` `Socket.IO` `SWR` `Emotion`
   <br>
 - [Practice Project 1 to 4](https://github.com/kwakhyun/front-end-practice/tree/main/react) - 연습 프로젝트
   - `React` `Redux` `Redux Toolkit`
   <br>
-- [Vanilla Todo list](https://github.com/kwakhyun/vanilla-todo-list) - 할 일, 날씨 정보 앱
+- [Vanilla Todo list](https://github.com/kwakhyun/vanilla-todo-list) - 할 일 메모, 날씨 정보 서비스
   - `HTML` `CSS` `JavaScript`
   <br>
-- [Intranet Account Management](https://github.com/kwakhyun/intranet-account-management) - 사내 계정 관리 앱
+- [Intranet Account Management](https://github.com/kwakhyun/intranet-account-management) - 사내 계정 관리
   - `Java` `JSP` `Spring` `Oracle Database` `jQuery`
   <br>
