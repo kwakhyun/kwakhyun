@@ -1,4 +1,4 @@
-![kwakhyun_logo](https://user-images.githubusercontent.com/73919235/193056935-ff04f656-466d-4cff-90f2-a7db3fc88670.jpg)
+![kh_logo](https://user-images.githubusercontent.com/73919235/193058972-03211f18-894f-4187-8c6a-6706d0d60cc4.jpg)
 
 ## Contact
 - 📧 khyun2348@naver.com
