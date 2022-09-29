@@ -6,10 +6,10 @@
 
 ## Portfolio
 ### 팀 프로젝트
-- [EverRent](https://github.com/ever-rent/ever-rent-FE) - 개인 렌탈 거래 서비스 - (개발 중)
+- [EverRent](https://github.com/ever-rent/ever-rent-FE) - 개인 렌탈 거래 플랫폼 - (개발 중)
   - `React` `Redux Toolkit` `React Query` `styled-components`
   <br>
-- [Twitter Clone](https://github.com/kwakhyun/twitter-clone-FE) - 트위터 클론 - (개선 중)
+- [Twitter Clone](https://github.com/kwakhyun/twitter-clone-FE) - 트위터 클론
   - `React` `React Query` `styled-components`
   <br>
 - [OhMyKase](https://github.com/kwakhyun/oh-my-kase-FE) - 오마카세 정보 및 리뷰 서비스
@@ -20,7 +20,7 @@
   <br>
   
 ### 개인 프로젝트
-- [OurTalk]() - 실시간 채팅 서비스 - (개발 중)
+- [OurTalk](https://github.com/kwakhyun/our-talk) - 실시간 채팅 서비스
   - `TypeScript` `React` `Socket.IO` `SWR` `Emotion`
   <br>
 - [Practice Project 1 to 4](https://github.com/kwakhyun/front-end-practice/tree/main/react) - 연습 프로젝트
