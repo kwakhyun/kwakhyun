@@ -20,7 +20,7 @@
   <br>
   
 ### 개인 프로젝트
-- [OurTalk](https://github.com/kwakhyun/our-talk) - 실시간 채팅 서비스
+- [QueueTalk](https://github.com/kwakhyun/our-talk) - 실시간 채팅 서비스
   - `TypeScript` `React` `SWR` `Emotion` `Socket.IO`
   <br>
 - [Practice Project 1 to 4](https://github.com/kwakhyun/front-end-practice/tree/main/react) - 연습 프로젝트
