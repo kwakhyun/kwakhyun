@@ -6,7 +6,7 @@
 
 ## Portfolio
 ### 팀 프로젝트
-- [EverRent](https://github.com/ever-rent/ever-rent-FE) - 개인 렌탈 거래 플랫폼 - (개발 중)
+- [EverRent](https://github.com/ever-rent/ever-rent-FE) - 개인 렌탈 거래 플랫폼
   - `React` `Redux Toolkit` `React Query` `styled-components`
   <br>
 - [Twitter Clone](https://github.com/kwakhyun/twitter-clone-FE) - 트위터 클론
