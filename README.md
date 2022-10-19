@@ -6,6 +6,8 @@
 - `JavaScript` `TypeScript`
 ### Library & Framework
 - `ReactJS` `Redux` `React Query` `SWR` `NextJS` `GraphQL` `styled-components` `TailwindCSS`
+### Etc
+- `Node Express` `Java Spring` `Oracle SQL`
 <br>
 
 ## Portfolio
