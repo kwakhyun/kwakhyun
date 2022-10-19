@@ -10,8 +10,8 @@
 - `Node Express` `Java Spring` `Oracle SQL`
 <br>
 
-## Portfolio
-### 팀 프로젝트
+## Side Project
+### Team
 - [EverRent](https://github.com/ever-rent/ever-rent-FE) - 개인 대여 플랫폼
   - `React` `Redux Toolkit` `React Query` `styled-components`
   <br>
@@ -25,7 +25,7 @@
   - `React` `Redux Toolkit` `styled-components`
   <br>
   
-### 개인 프로젝트
+### Personal
 - [QueueTalk](https://github.com/kwakhyun/our-talk) - 그룹 및 1:1 채팅 서비스
   - `TypeScript` `React` `SWR` `Emotion` `Socket.IO`
   <br>
