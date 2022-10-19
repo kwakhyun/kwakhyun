@@ -1,7 +1,11 @@
 ![kh_logo](https://user-images.githubusercontent.com/73919235/193058972-03211f18-894f-4187-8c6a-6706d0d60cc4.jpg)
+<img src="https://user-images.githubusercontent.com/73919235/196759856-c5ce95b3-14cb-4d43-9ebd-c195a3988e51.png" height="130px" />
 
-## Contact
-- 📧 khyun2348@naver.com
+## Technology stack
+### Language
+- `JavaScript` `TypeScript`
+### Library & Framework
+- `ReactJS` `Redux` `React Query` `SWR` `NextJS` `GraphQL` `styled-components` `TailwindCSS`
 <br>
 
 ## Portfolio
@@ -29,3 +33,6 @@
 - [Intranet Account Management](https://github.com/kwakhyun/intranet-account-management) - 사내 계정 관리
   - `Java` `JSP` `Spring` `Oracle Database` `jQuery`
   <br>
+  
+  ## Contact
+- 📧 khyun9685@gmail.com
