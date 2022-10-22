@@ -32,9 +32,6 @@
 - [Vanilla Todo list](https://github.com/kwakhyun/vanilla-todo-list) - 할 일 메모, 날씨 정보
   - `HTML` `CSS` `JavaScript`
   <br>
-- [Intranet Account Management](https://github.com/kwakhyun/intranet-account-management) - 사내 계정 관리
-  - `Java` `JSP` `Spring` `Oracle Database` `jQuery`
-  <br>
   
 ## Contact
 - 📧 khyun9685@gmail.com
