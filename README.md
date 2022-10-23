@@ -5,7 +5,7 @@
 ### Language
 - `JavaScript` `TypeScript`
 ### Library & Framework
-- `ReactJS` `Redux` `React Query` `SWR` `styled-components` `TailwindCSS` `NextJS`
+- `React` `Redux` `React Query` `SWR` `Next.js` `styled-components` `TailwindCSS`
 ### Other skills
 - `Java Spring` `Node Express` `SQL` `GraphQL`
 <br>
