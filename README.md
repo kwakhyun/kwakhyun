@@ -21,16 +21,10 @@
 - [OhMyKase](https://github.com/kwakhyun/oh-my-kase-FE) - 오마카세 정보 및 리뷰 서비스
   - `React` `Redux Toolkit` `React Query` `styled-components`
   <br>
-- [Anonymous Forum](https://github.com/kwakhyun/everyone-bulletin-board) - 익명 게시판
-  - `React` `Redux Toolkit` `styled-components`
-  <br>
   
 ### Personal
 - [QueueTalk](https://github.com/kwakhyun/our-talk) - 그룹 및 1:1 채팅 서비스
   - `TypeScript` `React` `SWR` `Emotion` `Socket.IO`
-  <br>
-- [Vanilla Todo list](https://github.com/kwakhyun/vanilla-todo-list) - 할 일 메모, 날씨 정보
-  - `HTML` `CSS` `JavaScript`
   <br>
   
 ## Contact
