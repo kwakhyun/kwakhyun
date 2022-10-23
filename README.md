@@ -24,7 +24,7 @@
   
 ### Personal
 - [Next Movies](https://github.com/kwakhyun/next-movies) - 영화 정보 조회 서비스
-  - `TypeScript` `React` `Next.js` `styled-components` `Vercel`
+  - `TypeScript` `React` `Next.js` `Vercel`
   <br>
 - [QueueTalk](https://github.com/kwakhyun/our-talk) - 그룹 및 1:1 채팅 서비스
   - `TypeScript` `React` `SWR` `Emotion` `Socket.IO`
