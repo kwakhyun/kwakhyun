@@ -13,16 +13,18 @@
 ## Side Project
 ### Team
 - [EverRent](https://github.com/ever-rent/ever-rent-FE) - 개인 대여 플랫폼
-  - `React` `Redux Toolkit` `React Query` `styled-components`
+  - `React` `Redux Toolkit` `React Query` `styled-components` `Vercel`
   <br>
 - [Twitter Clone](https://github.com/kwakhyun/twitter-clone-FE) - 트위터 클론
-  - `React` `React Query` `styled-components`
+  - `React` `React Query` `styled-components` `AWS S3`
   <br>
 - [OhMyKase](https://github.com/kwakhyun/oh-my-kase-FE) - 오마카세 정보 및 리뷰 서비스
-  - `React` `Redux Toolkit` `React Query` `styled-components`
+  - `React` `Redux Toolkit` `React Query` `styled-components` `AWS S3`
   <br>
   
 ### Personal
+- [Next Movies](https://github.com/kwakhyun/next-movies) - 영화 정보 조회 서비스
+  - `TypeScript` `React` `Next.js` `styled-components` `Vercel`
 - [QueueTalk](https://github.com/kwakhyun/our-talk) - 그룹 및 1:1 채팅 서비스
   - `TypeScript` `React` `SWR` `Emotion` `Socket.IO`
   <br>
