@@ -12,7 +12,7 @@
 
 ## Side Project
 ### Team
-- [EverRent](https://github.com/ever-rent/ever-rent-FE) - 개인 대여 플랫폼
+- [EVER RENT](https://github.com/ever-rent/ever-rent-FE) - 개인 렌탈 플랫폼
   - `React` `Redux Toolkit` `React Query` `styled-components` `Vercel`
   <br>
 - [Twitter Clone](https://github.com/kwakhyun/twitter-clone-FE) - 트위터 클론
