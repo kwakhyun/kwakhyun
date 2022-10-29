@@ -13,7 +13,7 @@
 
 - `styled-components` `TailwindCSS`
 
-- `Spring` `Express` `Flask`
+- `Spring`
 <br>
   
 ## Contact
