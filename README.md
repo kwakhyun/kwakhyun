@@ -1,18 +1,21 @@
 ![kh_logo](https://user-images.githubusercontent.com/73919235/193058972-03211f18-894f-4187-8c6a-6706d0d60cc4.jpg)
 
 ## My Dev skills
-### Language
+### Front-end
+#### Language
 - `JavaScript` `TypeScript`
-
-- `Java` `SQL`
-
-### Library & Framework
+#### Library & Framework
 - `React` `Next.js`
 
 - `Redux` `React Query` `SWR`
 
 - `styled-components` `TailwindCSS`
+<br>
 
+### Back-end
+#### Language
+- `Java` `SQL`
+#### Library & Framework
 - `Spring`
 <br>
   
