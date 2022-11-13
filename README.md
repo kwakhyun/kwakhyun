@@ -7,9 +7,9 @@
 #### Library & Framework
 - `React` `Next.js`
 
-- `Redux` `React Query` `SWR`
+- `Redux` `Tanstack Query` `SWR`
 
-- `styled-components` `TailwindCSS`
+- `styled-components` `Tailwind CSS`
 <br>
 
 ### Back-end
