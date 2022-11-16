@@ -7,7 +7,7 @@
 #### Library & Framework
 - `React` `Next.js`
 
-- `Redux` `Tanstack Query` `SWR`
+- `Redux` `TanStack Query` `SWR`
 
 - `styled-components` `Tailwind CSS`
 <br>
