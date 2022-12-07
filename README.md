@@ -3,13 +3,11 @@
 ## My Dev skills
 ### Front-end
 #### Language
-- `JavaScript` `TypeScript`
+- `TypeScript(JavaScript)`
 #### Library & Framework
 - `React` `Next.js`
 
-- `Redux` `TanStack Query` `SWR`
-
-- `styled-components` `Tailwind CSS`
+- `Redux` `Recoil` `TanStack Query` `SWR`
 <br>
 
 ### Back-end
