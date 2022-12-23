@@ -1,20 +1,31 @@
-## 💻 My Dev skills
-### 🌖 Front-end
-#### Language
-- `TypeScript` `Dart`
-#### Library & Framework
-- `React` `Next.js` `React Native` `Flutter`
+### 💻 My Dev skills
 
-- `Redux` `Recoil` `TanStack Query` `SWR`
-<br>
+<table>
+<tr>
+<th>🌖 Front-end</th>
+<th>🌒 Back-end</th>
+</tr>
+<tr>
+<td>
+<pre>
+- HTML5 & CSS3
+- JavaScript ES6+
+- TypeScript 4
+- React 18
+- Next.js 12
+- Flutter 3
+</pre>
+</td>
+<td>
+<pre>
+- Java 11
+- Spring 3
+- SQL(Oracle DB)
+</pre>
+</td>
+</tr>
+</table>
 
-### 🌒 Back-end
-#### Language
-- `Java` `SQL`
-#### Library & Framework
-- `Spring`
-<br>
-  
-## Contact
-- 📧 khyun9685@gmail.com
-<br>
+ <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakhyun&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
