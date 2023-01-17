@@ -2,25 +2,30 @@
 
 <table>
 <tr>
-<th>🌖 Front-end</th>
-<th>🌒 Back-end</th>
+<th>🖥 Front-end</th>
+<th>📱 Mobile</th>
+<th>📦 Work tools</th>
 </tr>
 <tr>
 <td>
 <pre>
-- HTML5 & CSS3
-- JavaScript ES6+
 - TypeScript 4
 - React 18
 - Next.js 12
-- React Native
 </pre>
 </td>
 <td>
 <pre>
-- Java 11
-- Spring 3
-- SQL(Oracle DB)
+- React Native 0.7
+- Flutter 3
+</pre>
+</td>
+<td>
+<pre>
+- Jira
+- Bitbucket
+- Slack
+- Notion
 </pre>
 </td>
 </tr>
