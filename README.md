@@ -4,7 +4,6 @@
 <tr>
 <th>🖥 Front-end</th>
 <th>📱 Mobile</th>
-<th>📦 Work tools</th>
 </tr>
 <tr>
 <td>
@@ -18,14 +17,6 @@
 <pre>
 - React Native 0.7
 - Flutter 3
-</pre>
-</td>
-<td>
-<pre>
-- Jira
-- Bitbucket
-- Slack
-- Notion
 </pre>
 </td>
 </tr>
