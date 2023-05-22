@@ -2,21 +2,27 @@
 
 <table>
 <tr>
-<th>🖥 Front-end</th>
-<th>📱 Mobile</th>
+<th>Web</th>
+<th>Mobile</th>
+<th>Server</th>
 </tr>
 <tr>
 <td>
 <pre>
-- TypeScript 4
-- React 18
-- Next.js 12
+- React
+- Next.js
 </pre>
 </td>
 <td>
 <pre>
-- React Native 0.7
-- Flutter 3
+- React Native
+- Flutter
+</pre>
+</td>
+<td>
+<pre>
+- Node.js
+- Java
 </pre>
 </td>
 </tr>
